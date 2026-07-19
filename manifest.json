@@ -1,0 +1,11 @@
+{
+  "name": "Pankaj ❤️ Priyanka",
+  "short_name": "Love",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff4fa3",
+  "orientation": "portrait",
+  "scope": "./",
+  "icons": []
+}
